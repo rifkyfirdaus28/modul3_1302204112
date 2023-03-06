@@ -1,0 +1,17 @@
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\bin\Debug\net6.0-windows\modul3_1302204112.exe
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\bin\Debug\net6.0-windows\modul3_1302204112.deps.json
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\bin\Debug\net6.0-windows\modul3_1302204112.runtimeconfig.json
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\bin\Debug\net6.0-windows\modul3_1302204112.dll
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\bin\Debug\net6.0-windows\modul3_1302204112.pdb
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.csproj.AssemblyReference.cache
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.Form1.resources
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.csproj.GenerateResource.cache
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.AssemblyInfoInputs.cache
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.AssemblyInfo.cs
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.csproj.CoreCompileInputs.cache
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.dll
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\refint\modul3_1302204112.dll
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.pdb
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\modul3_1302204112.genruntimeconfig.cache
+D:\modul3_1302204112\modul3_1302204112\modul3_1302204112\obj\Debug\net6.0-windows\ref\modul3_1302204112.dll
